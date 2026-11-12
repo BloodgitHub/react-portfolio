@@ -50,10 +50,10 @@ git push -u origin main
 
 Replace `YOUR-USERNAME` with your GitHub username.
 
-## Deploy on Vercel
+## Deploy on Netlify
 
 1. Push this project to GitHub.
-2. Sign in to [Vercel](https://vercel.com/) and choose **Add New → Project**.
+2. Sign in to [Netlify](https://www.netlify.com/) and choose **Add New → Project**.
 3. Import `react-portfolio`.
 4. Keep the detected Vite settings:
    - Build command: `npm run build`
